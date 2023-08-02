@@ -1,0 +1,15 @@
+/Users/mohammedathar/Desktop/Coding_Dojo/C# Assignments/Fun_2/Fun_2/bin/Debug/net6.0/Fun_2
+/Users/mohammedathar/Desktop/Coding_Dojo/C# Assignments/Fun_2/Fun_2/bin/Debug/net6.0/Fun_2.deps.json
+/Users/mohammedathar/Desktop/Coding_Dojo/C# Assignments/Fun_2/Fun_2/bin/Debug/net6.0/Fun_2.runtimeconfig.json
+/Users/mohammedathar/Desktop/Coding_Dojo/C# Assignments/Fun_2/Fun_2/bin/Debug/net6.0/Fun_2.dll
+/Users/mohammedathar/Desktop/Coding_Dojo/C# Assignments/Fun_2/Fun_2/bin/Debug/net6.0/Fun_2.pdb
+/Users/mohammedathar/Desktop/Coding_Dojo/C# Assignments/Fun_2/Fun_2/obj/Debug/net6.0/Fun_2.csproj.AssemblyReference.cache
+/Users/mohammedathar/Desktop/Coding_Dojo/C# Assignments/Fun_2/Fun_2/obj/Debug/net6.0/Fun_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedathar/Desktop/Coding_Dojo/C# Assignments/Fun_2/Fun_2/obj/Debug/net6.0/Fun_2.AssemblyInfoInputs.cache
+/Users/mohammedathar/Desktop/Coding_Dojo/C# Assignments/Fun_2/Fun_2/obj/Debug/net6.0/Fun_2.AssemblyInfo.cs
+/Users/mohammedathar/Desktop/Coding_Dojo/C# Assignments/Fun_2/Fun_2/obj/Debug/net6.0/Fun_2.csproj.CoreCompileInputs.cache
+/Users/mohammedathar/Desktop/Coding_Dojo/C# Assignments/Fun_2/Fun_2/obj/Debug/net6.0/Fun_2.dll
+/Users/mohammedathar/Desktop/Coding_Dojo/C# Assignments/Fun_2/Fun_2/obj/Debug/net6.0/refint/Fun_2.dll
+/Users/mohammedathar/Desktop/Coding_Dojo/C# Assignments/Fun_2/Fun_2/obj/Debug/net6.0/Fun_2.pdb
+/Users/mohammedathar/Desktop/Coding_Dojo/C# Assignments/Fun_2/Fun_2/obj/Debug/net6.0/Fun_2.genruntimeconfig.cache
+/Users/mohammedathar/Desktop/Coding_Dojo/C# Assignments/Fun_2/Fun_2/obj/Debug/net6.0/ref/Fun_2.dll
